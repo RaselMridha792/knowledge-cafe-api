@@ -1,0 +1,202 @@
+[
+    {
+        "id": 1,
+        "cover": "https://img.freepik.com/free-vector/future-is-here-template-vector-ai-technology-blog-banner_53876-117828.jpg",
+        "title": "The Rise of AI in Business",
+        "author": "John Doe",
+        "author_img": "https://img.icons8.com/?size=100&id=JnrRBMMOHyso&format=png&color=000000",
+        "posted_date": "2024-10-01",
+        "reading_time": "5 min",
+        "hashtags": ["#AI", "#Business", "#Technology"]
+    },
+    {
+        "id": 2,
+        "cover": "https://marketplace.canva.com/EAFHGwbChtE/1/0/1600w/canva-teal-illustration-digital-business-blog-banner-GbS2S4BsWQA.jpg",
+        "title": "Digital Marketing Trends 2024",
+        "author": "John Doe",
+        "author_img": "https://img.icons8.com/?size=100&id=JnrRBMMOHyso&format=png&color=000000",
+        "posted_date": "2024-10-02",
+        "reading_time": "6 min",
+        "hashtags": ["#DigitalMarketing", "#Trends", "#2024"]
+    },
+    {
+        "id": 3,
+        "cover": "https://marketplace.canva.com/EAFnqhKdPhA/1/0/1600w/canva-green-modern-business-marketing-blog-banner-TrsjByQeaxE.jpg",
+        "title": "Effective Content Strategies",
+        "author": "John Doe",
+        "author_img": "https://img.icons8.com/?size=100&id=JnrRBMMOHyso&format=png&color=000000",
+        "posted_date": "2024-10-03",
+        "reading_time": "4 min",
+        "hashtags": ["#ContentMarketing", "#Strategy"]
+    },
+    {
+        "id": 4,
+        "cover": "https://img.freepik.com/free-vector/business-banner-blog-design_23-2148659871.jpg",
+        "title": "Brand Building Essentials",
+        "author": "John Doe",
+        "author_img": "https://img.icons8.com/?size=100&id=JnrRBMMOHyso&format=png&color=000000",
+        "posted_date": "2024-10-04",
+        "reading_time": "5 min",
+        "hashtags": ["#Branding", "#Business"]
+    },
+    {
+        "id": 5,
+        "cover": "https://marketplace.canva.com/EAFHIKTvNZU/1/0/1600w/canva-gray-green-illustration-business-blog-banner-HwTo0qf_2r4.jpg",
+        "title": "Navigating E-Commerce Growth",
+        "author": "John Doe",
+        "author_img": "https://img.icons8.com/?size=100&id=JnrRBMMOHyso&format=png&color=000000",
+        "posted_date": "2024-10-05",
+        "reading_time": "7 min",
+        "hashtags": ["#Ecommerce", "#Growth"]
+    },
+    {
+        "id": 6,
+        "cover": "https://marketplace.canva.com/EAFdG4q20Rg/1/0/1600w/canva-yellow-and-white-minimalist-marketing-strategies-outdoor-banner-I8QHXlzsc88.jpg",
+        "title": "Social Media Engagement Tips",
+        "author": "John Doe",
+        "author_img": "https://img.icons8.com/?size=100&id=JnrRBMMOHyso&format=png&color=000000",
+        "posted_date": "2024-10-06",
+        "reading_time": "3 min",
+        "hashtags": ["#SocialMedia", "#Engagement"]
+    },
+    {
+        "id": 7,
+        "cover": "https://marketplace.canva.com/EAE5cSlM7UQ/1/0/800w/canva-orange-and-white-professional-business-marketing-banner-landscape-oFogORcjmP8.jpg",
+        "title": "Email Marketing Best Practices",
+        "author": "John Doe",
+        "author_img": "https://img.icons8.com/?size=100&id=JnrRBMMOHyso&format=png&color=000000",
+        "posted_date": "2024-10-07",
+        "reading_time": "6 min",
+        "hashtags": ["#EmailMarketing", "#BestPractices"]
+    },
+    {
+        "id": 8,
+        "cover": "https://marketplace.canva.com/EAFc3gnFNn8/1/0/1600w/canva-black-and-orange-modern-digital-marketing-expert-outdoor-banner-VVl4Cs2daLI.jpg",
+        "title": "The Future of SEO",
+        "author": "John Doe",
+        "author_img": "https://img.icons8.com/?size=100&id=JnrRBMMOHyso&format=png&color=000000",
+        "posted_date": "2024-10-08",
+        "reading_time": "5 min",
+        "hashtags": ["#SEO", "#Future"]
+    },
+    {
+        "id": 9,
+        "cover": "https://marketplace.canva.com/EAFtbICRe9Y/1/0/1600w/canva-dark-blue-abstract-geometric-marketing-agency-facebook-cover-R1JuhBySEiE.jpg",
+        "title": "Data-Driven Marketing",
+        "author": "John Doe",
+        "author_img": "https://img.icons8.com/?size=100&id=JnrRBMMOHyso&format=png&color=000000",
+        "posted_date": "2024-10-09",
+        "reading_time": "7 min",
+        "hashtags": ["#DataDriven", "#Marketing"]
+    },
+    {
+        "id": 10,
+        "cover": "https://img.freepik.com/free-psd/digital-marketing-banner-template_23-2148819549.jpg",
+        "title": "Understanding Customer Behavior",
+        "author": "John Doe",
+        "author_img": "https://img.icons8.com/?size=100&id=JnrRBMMOHyso&format=png&color=000000",
+        "posted_date": "2024-10-10",
+        "reading_time": "4 min",
+        "hashtags": ["#CustomerBehavior", "#Insights"]
+    },
+    {
+        "id": 11,
+        "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuhc-NYOx4OfHuIymZ_n2_YRJ2yMDQb_iQww&s",
+        "title": "The Importance of Branding",
+        "author": "John Doe",
+        "author_img": "https://img.icons8.com/?size=100&id=JnrRBMMOHyso&format=png&color=000000",
+        "posted_date": "2024-10-11",
+        "reading_time": "5 min",
+        "hashtags": ["#Branding", "#Importance"]
+    },
+    {
+        "id": 12,
+        "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUuhdKATpd4OXdVc07VDOhNFZK4-63UE6mg_QgEyFrZ3TZNG1ZwV-hn5chQScB-Q4-XLs&usqp=CAU",
+        "title": "Digital Advertising Strategies",
+        "author": "John Doe",
+        "author_img": "https://img.icons8.com/?size=100&id=JnrRBMMOHyso&format=png&color=000000",
+        "posted_date": "2024-10-12",
+        "reading_time": "6 min",
+        "hashtags": ["#DigitalAdvertising", "#Strategies"]
+    },
+    {
+        "id": 13,
+        "cover": "https://img.pikbest.com/backgrounds/20210708/dark-green-spot-technology-sensation-business-business-promotion-banner_6049875.jpg!bw700",
+        "title": "Innovations in Marketing Tech",
+        "author": "John Doe",
+        "author_img": "https://img.icons8.com/?size=100&id=JnrRBMMOHyso&format=png&color=000000",
+        "posted_date": "2024-10-13",
+        "reading_time": "5 min",
+        "hashtags": ["#MarketingTech", "#Innovations"]
+    },
+    {
+        "id": 14,
+        "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuyQ_CYdhFd5ivJoGntWX0HdwAlX48AzTZGM3YdXLGBTS9mCXyhYna90fuMYhHbLR95Vg&usqp=CAU",
+        "title": "The Role of Analytics",
+        "author": "John Doe",
+        "author_img": "https://img.icons8.com/?size=100&id=JnrRBMMOHyso&format=png&color=000000",
+        "posted_date": "2024-10-14",
+        "reading_time": "6 min",
+        "hashtags": ["#Analytics", "#Marketing"]
+    },
+    {
+        "id": 15,
+        "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHplef1ejRVTo7Q0N7f7M8UOyAuMDPE7KX6pjKhaTK3BmDTXIur4lbOUAe_cYC3qiDtmc&usqp=CAU",
+        "title": "Creating Impactful Campaigns",
+        "author": "John Doe",
+        "author_img": "https://img.icons8.com/?size=100&id=JnrRBMMOHyso&format=png&color=000000",
+        "posted_date": "2024-10-15",
+        "reading_time": "5 min",
+        "hashtags": ["#Campaigns", "#Impact"]
+    },
+    {
+        "id": 16,
+        "cover": "https://t4.ftcdn.net/jpg/08/22/63/81/360_F_822638176_Q3g9ZmCcoXLfM41li0nBuFpqYJbNEVWn.jpg",
+        "title": "Building a Strong Online Presence",
+        "author": "John Doe",
+        "author_img": "https://img.icons8.com/?size=100&id=JnrRBMMOHyso&format=png&color=000000",
+        "posted_date": "2024-10-16",
+        "reading_time": "4 min",
+        "hashtags": ["#OnlinePresence", "#Digital"]
+    },
+    {
+        "id": 17,
+        "cover": "https://t4.ftcdn.net/jpg/07/83/34/59/360_F_783345999_KwPjs8MMhNUbkjEhKBBy9HQPgox64wsp.jpg",
+        "title": "User Experience in Marketing",
+        "author": "John Doe",
+        "author_img": "https://img.icons8.com/?size=100&id=JnrRBMMOHyso&format=png&color=000000",
+        "posted_date": "2024-10-17",
+        "reading_time": "5 min",
+        "hashtags": ["#UserExperience", "#Marketing"]
+    },
+    {
+        "id": 18,
+        "cover": "https://t4.ftcdn.net/jpg/07/50/91/69/360_F_750916971_7r2jNH8G3pom4mDpL96GKZdZbCNTaqxb.jpg",
+        "title": "Leveraging Social Proof",
+        "author": "John Doe",
+        "author_img": "https://img.icons8.com/?size=100&id=JnrRBMMOHyso&format=png&color=000000",
+        "posted_date": "2024-10-18",
+        "reading_time": "4 min",
+        "hashtags": ["#SocialProof", "#Marketing"]
+    },
+    {
+        "id": 19,
+        "cover": "https://t4.ftcdn.net/jpg/07/53/42/87/360_F_753428773_y20zdS0mbM3sMhVOsw8ALST8OWzzM4KM.jpg",
+        "title": "Maximizing ROI in Marketing",
+        "author": "John Doe",
+        "author_img": "https://img.icons8.com/?size=100&id=JnrRBMMOHyso&format=png&color=000000",
+        "posted_date": "2024-10-19",
+        "reading_time": "5 min",
+        "hashtags": ["#ROI", "#Marketing"]
+    },
+    {
+        "id": 20,
+        "cover": "https://t4.ftcdn.net/jpg/08/22/63/81/360_F_822638176_Q3g9ZmCcoXLfM41li0nBuFpqYJbNEVWn.jpg",
+        "title": "Future of Digital Marketing",
+        "author": "John Doe",
+        "author_img": "https://img.icons8.com/?size=100&id=JnrRBMMOHyso&format=png&color=000000",
+        "posted_date": "2024-10-20",
+        "reading_time": "5 min",
+        "hashtags": ["#DigitalMarketing", "#Future"]
+    }
+]
